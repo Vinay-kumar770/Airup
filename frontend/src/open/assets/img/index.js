@@ -1,0 +1,21 @@
+import heroimg from "./hero-img.png";
+import about from "./about.jpg";
+import portfolio1 from "./portfolio/portfolio-1.jpg";
+import portfolio2 from "./portfolio/portfolio-2.jpg";
+import portfolio3 from "./portfolio/portfolio-3.jpg";
+import portfolio4 from "./portfolio/portfolio-4.jpg";
+import portfolio5 from "./portfolio/portfolio-5.jpg";
+import portfolio6 from "./portfolio/portfolio-6.jpg";
+import portfolio7 from "./portfolio/portfolio-7.jpg";
+import portfolio8 from "./portfolio/portfolio-8.jpg";
+import portfolio9 from "./portfolio/portfolio-9.jpg";
+import features from "./features.svg";
+import countsbg from "./counts-bg.png";
+import herobg from "./hero-bg.jpg";
+import testimonials1 from "./testimonials/testimonials-1.jpg";
+import testimonials2 from "./testimonials/testimonials-2.jpg";
+import testimonials3 from "./testimonials/testimonials-3.jpg";
+import testimonials4 from "./testimonials/testimonials-4.jpg";
+import testimonials5 from "./testimonials/testimonials-5.jpg";
+
+export{heroimg, about,portfolio1,portfolio2,portfolio3,portfolio4,portfolio5,portfolio6,portfolio7,portfolio8,portfolio9,features,countsbg,herobg,testimonials1,testimonials2,testimonials3,testimonials4,testimonials5};
