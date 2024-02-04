@@ -1,16 +1,15 @@
-import React, { useEffect } from 'react';
+import React, { useEffect,useState, useCallback} from 'react';
 import {aboutbg,abouticon1,abouticon2,abouticon3,aboutleft,aboutsharp,bg,blog3,bb1,bb2,bb3,bb4,bb5,bb6,bb7,bb8,clog1,clog2,clog3,clog4,clog5,carousel2,documentationbg,fabicon,flag1,flag2,flag3,flag4,flag5,group1,
   initialbg,liveshape,logocbottom,logotop,mobile,roadmap1,roadmap2,roadmap4,roadmap5,superman1,superman2,superman3,superman4,
   superman5,superman6,superman7,superman8,tokenbottom,tokentop,welcomeimg} from "./assets/img/index";
 
 import "jquery/dist/jquery";
 import 'animate.css';
-import OwlCarousel from 'react-owl-carousel';
+import OwlCarousel from 'react-owl-carousel2';
 import 'wowjs/css/libs/animate.css';
 
-import { useCallback } from "react";
-import Particles from "react-tsparticles";
-import { loadFull } from "tsparticles"; 
+import Particles, { initParticlesEngine } from "@tsparticles/react";
+import { loadSlim } from "@tsparticles/slim"; 
 
 //CSS
 import "owl.carousel/dist/assets/owl.carousel.css";
@@ -43,116 +42,80 @@ import "./assets/css/animation.css";
 import "animate.css/animate.css";
 import "animate.css/animate.min.css";*/
 
-
-
 const logo_carousel = {
-      loop:true,
-        nav:false,
-        margin:30,
-        autoplay:true,
-        autoplayspeed:1000,
-        responsive:{
-            0:{
-                items:1
-            },
-            600:{
-                items:2
-            },
-            1000:{
-                items:5
-            }
+        loop: true,
+        nav: false,
+        margin: 30,
+        autoPlay: true, // Corrected to camelCase
+        autoplaySpeed: false, // Check if this is a valid prop for your OwlCarousel
+        responsive: {
+            0: { items: 1 },
+            600: { items: 2 },
+            1000: { items: 5 }
         }
-};
+    };
 
-const roadmap_carousel={
-  loop:true,
-       nav:true,
-       margin:30,
-       autoplay:true,
-       autoplayspeed:1000,
-        navText:['<i class="fa fa-long-arrow-left">','<i class="fa fa-long-arrow-right">'],
-        responsive:{
-            0:{
-                items:1
-            },
-            600:{
-                items:2
-            },
-            1000:{
-                items:3
-            }
+    const roadmap_carousel = {
+        loop: true,
+        nav: true,
+        margin: 30,
+        autoPlay: true, // Corrected to camelCase
+        autoplaySpeed: false, // Check if this is a valid prop for your OwlCarousel
+        navText: ['<i class="fa fa-long-arrow-left"></i>', '<i class="fa fa-long-arrow-right"></i>'],
+        responsive: {
+            0: { items: 1 },
+            600: { items: 2 },
+            1000: { items: 3 }
         }
-}
+    };
 
-
-const faq_carousel={
-  loop:true,
-       nav:true,
-       margin:30,
-       autoplay:true,
-       autoplayspeed:1000,
-        navText:['<i class="fa fa-long-arrow-left">','<i class="fa fa-long-arrow-right">'],
-        responsive:{
-            0:{
-                items:1
-            },
-            600:{
-                items:2
-            },
-            1000:{
-                items:3
-            }
+    const faq_carousel = {
+        loop: true,
+        nav: true,
+        margin: 30,
+        autoPlay: true, // Corrected to camelCase
+        autoplaySpeed: false, // Check if this is a valid prop for your OwlCarousel
+        navText: ['<i class="fa fa-long-arrow-left"></i>', '<i class="fa fa-long-arrow-right"></i>'],
+        responsive: {
+            0: { items: 1 },
+            600: { items: 2 },
+            1000: { items: 3 }
         }
-}
+    };
+
 
 
     
     const Entre = () => {
-      useEffect(() => {
-        // Owl Carousel Initialization
-
-        if (window.$) {
+      const [ init, setInit ] = useState(false);
+    useEffect(() => {
+      if (window.$) {
           console.log('jQuery is loaded and accessible.');
-        } else {
+      } else {
           console.error('jQuery is not loaded or accessible.');
-        }
-        const countDownDate = new Date('Sep 5, 2024 15:37:25').getTime();
+      }
 
-        // Update the count down every 1 second
-        const x = setInterval(function () {
-          const now = new Date().getTime();
-          const distance = countDownDate - now;
-          const days = Math.floor(distance / (1000 * 60 * 60 * 24));
-          const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-          const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-          const seconds = Math.floor((distance % (1000 * 60)) / 1000);
-    
-          document.getElementById('days').innerHTML = days;
-          document.getElementById('hours').innerHTML = hours;
-          document.getElementById('minutes').innerHTML = minutes;
-          document.getElementById('seconds').innerHTML = seconds;
-    
-          if (distance < 0) {
-            clearInterval(x);
-            document.getElementById('counter').innerHTML = 'EXPIRED';
-          }
-        }, 1000);
-        document.body.className = 'entrebody';
+      initParticlesEngine(async (engine) => {
+          // Initialization logic here
+          await loadSlim(engine);
+      }).then(() => {
+          setInit(true);
+      });
 
-        // Optionally, you can remove the class when the component unmounts
-      }, []);
-      const particlesInit = useCallback(async engine => {
-        console.log(engine);
-        // you can initiate the tsParticles instance (engine) here, adding custom shapes or presets
-        // this loads the tsparticles package bundle, it's the easiest method for getting everything ready
-        // starting from v2 you can add only the features you need reducing the bundle size
-        //await loadFull(engine);
-        await loadFull(engine);
-    }, []);
+      // No cleanup needed here
+  }, []);
 
-    const particlesLoaded = useCallback(async container => {
-        await console.log(container);
-    }, []);
+  // Effect for countdown timer
+
+  // Effect for setting body class
+  useEffect(() => {
+      document.body.className = 'entrebody';
+
+      // No cleanup needed for setting a class
+  }, []);
+  const particlesLoaded = useCallback(async container => {
+    await console.log(container);
+}, []);
   return(
     <>
     <div
@@ -252,10 +215,9 @@ const faq_carousel={
     {/*header area end*/}
     {/*welcome area start*/}
     <div className="welcome-area wow fadeInUp" id="home">
-    <Particles
+    {init && <Particles
             id="particles-js"
-            init={particlesInit}
-            loaded={particlesLoaded}
+            particlesLoaded={particlesLoaded}
             options={{
               fullScreen: { enable: false, zIndex: 0 },
               "particles": {
@@ -368,7 +330,7 @@ const faq_carousel={
               "retina_detect": true
             
             }}
-        ></Particles>
+        />}
       <div className="container">
         <div className="row">
           <div className="col-12 col-md-6 align-self-center">
@@ -415,7 +377,7 @@ const faq_carousel={
         </div>
         <div className="row">
           <div className="col-lg-12">
-            <OwlCarousel className="logo-carousel owl-carousel text-center" {...logo_carousel}>
+            <OwlCarousel className="logo-carousel owl-carousel text-center" options={logo_carousel}>
               <div className="single-logo-wrapper">
                 <div className="single-item">
                   <img src={clog1} alt="" />
@@ -715,7 +677,7 @@ const faq_carousel={
         </div>
       </div>
       <div className="container">
-        <OwlCarousel className="roadmap-carousel owl-carousel" {...roadmap_carousel}>
+        <OwlCarousel className="roadmap-carousel owl-carousel" options={roadmap_carousel}>
           <div className="roadmap-item">
             <div className="single-roadmap text-center road-left">
               <div className="single-roadmap-img">
@@ -1225,7 +1187,7 @@ const faq_carousel={
         <div className="tab-content" id="pills-tabContent">
           <div className="tab-pane fade show active" id="one">
             <div className="container-fluid">
-              <OwlCarousel className="faq-carousel owl-carousel" {...faq_carousel}>
+              <OwlCarousel className="faq-carousel owl-carousel" options={faq_carousel}>
                 <div className="single-faq">
                   <h4>Why I should invest in ICO ?</h4>
                   <div className="space-20" />
@@ -1295,7 +1257,7 @@ const faq_carousel={
           </div>
           <div className="tab-pane fade" id="two">
             <div className="container-fluid">
-              <OwlCarousel className="faq-carousel owl-carousel" {...faq_carousel}>
+              <OwlCarousel className="faq-carousel owl-carousel" options={faq_carousel}>
                 <div className="single-faq">
                   <h4>Why I should invest in ICO ?</h4>
                   <div className="space-20" />
@@ -1365,7 +1327,7 @@ const faq_carousel={
           </div>
           <div className="tab-pane fade" id="three">
             <div className="container-fluid">
-              <OwlCarousel className="faq-carousel owl-carousel" {...faq_carousel}>
+              <OwlCarousel className="faq-carousel owl-carousel" options={faq_carousel}>
                 <div className="single-faq">
                   <h4>Why I should invest in ICO ?</h4>
                   <div className="space-20" />
@@ -1435,7 +1397,7 @@ const faq_carousel={
           </div>
           <div className="tab-pane fade" id="four">
             <div className="container-fluid">
-              <OwlCarousel className="faq-carousel owl-carousel" {...faq_carousel}>
+              <OwlCarousel className="faq-carousel owl-carousel" options={faq_carousel}>
                 <div className="single-faq">
                   <h4>Why I should invest in ICO ?</h4>
                   <div className="space-20" />

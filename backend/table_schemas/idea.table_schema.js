@@ -1,6 +1,25 @@
-const mongoose =require('mongoose');
+import mongoose from 'mongoose';
 
-const ideaschema = new mongoose.Schema({
+const { Schema } = mongoose;
+const bidSchema = new Schema({
+    id:{
+        type:String,
+        require:true,
+    },
+    name: {
+        type: String,
+        require:true,
+    },
+    amount:{
+        type: Number,
+        require: true,
+    }
+});
+const ideaschema = new Schema({
+    created_by:{
+        type: String,
+        require:false,
+    },
     ideaname:{
         type: String,
         require:true,
@@ -45,9 +64,17 @@ const ideaschema = new mongoose.Schema({
         type: String,
         require:true,
     },
+    ideaStatus:{
+        type:Boolean,
+        require:false,
+        default:false,
+    },
+    totalBids:[bidSchema],
+    confirmedBids:[bidSchema]
+},
+{
+    timestamps: true,
+  }
+)
 
-})
-
-const Idea=new mongoose.model("Idea",ideaschema);
-
-module.exports= Idea;
+export default mongoose.model("Idea", ideaschema);

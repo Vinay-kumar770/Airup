@@ -1,0 +1,297 @@
+{
+  "body": {
+    "username": "vinay",
+    "email": "vinay@gmail.com",
+    "password": "Vinay@2002",
+    "phone_number": "7702221767"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "username": "vinay",
+    "password": "Vinay@2002"
+  },
+  "query": {}
+}
+{
+  "body": {},
+  "query": {}
+}
+{
+  "body": {
+    "username": "vinay",
+    "password": "Vinay@2002"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "username": "vinay",
+    "password": "Vinay@2002"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airupqwerty",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airupqwerty",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "username": "vinay",
+    "email": "vinay@gmail.com",
+    "password": "Vinay@2002",
+    "phone_number": "7702221767"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "username": "vinay",
+    "password": "Vinay@2002"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airup",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airup",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "username": "vinay",
+    "password": "Vinay@2002"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airup",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airup",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airup",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airup1",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airup2",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airup10",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airup10",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airup10",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airup10",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airup10",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airup10",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
