@@ -35,7 +35,7 @@ const About = () =>{
               <img src="https://cdn-icons-png.flaticon.com/512/8991/8991202.png" width={400} height={400}/>
               </div>
               <div style={{textAlign:"center",paddingTop:"10px"}}>
-                <a href="/inves" style= {styles.aalign}>I am an Investor </a>
+                <a href="/investor" style= {styles.aalign}>I am an Investor </a>
               </div>
             </div>
             <div style={styles.flexItem}>
@@ -43,7 +43,7 @@ const About = () =>{
               <img src="https://cdn-icons-png.flaticon.com/512/6553/6553332.png" width={400} height={400}/>
                </div>
                <div  style={{textAlign:"center",paddingTop:"10px"}}>
-                <a  href="/entre" style={styles.aalign}>I am an Entrepreneur</a></div>         
+                <a  href="/entrepreneur" style={styles.aalign}>I am an Entrepreneur</a></div>         
             </div>
           </div>
         </div>

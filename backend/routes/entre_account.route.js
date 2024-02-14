@@ -9,14 +9,14 @@ import {
 } from "../controllers/entre_account.controller.js";
 import authenticateJWT from "../middleware/jwt_authentication.js";
 
-const authenticationRoute = express.Router();
+const EntrepreneurRoute = express.Router();
 
 // Routes that do not require JWT authentication
-authenticationRoute.post("/register", register);
-authenticationRoute.post("/login", login);
-authenticationRoute.post("/logout", logout);
-authenticationRoute.post("/:userId/idea_submission", authenticateJWT, idea_submit);
-authenticationRoute.post("/:userId/entre_ideas", authenticateJWT, entre_ideas);
-authenticationRoute.post("/:userId/list_of_investors",list_of_investors)
+EntrepreneurRoute.post("/register", register);
+EntrepreneurRoute.post("/login", login);
+EntrepreneurRoute.post("/logout", logout);
+EntrepreneurRoute.post("/:userId/ideaSubmission", authenticateJWT, idea_submit);
+EntrepreneurRoute.post("/:userId/entre_ideas", authenticateJWT, entre_ideas);
+EntrepreneurRoute.get("/:userId/allInvestors",list_of_investors)
 
-export default authenticationRoute;
+export default EntrepreneurRoute;

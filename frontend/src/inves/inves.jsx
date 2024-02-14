@@ -50,7 +50,7 @@ const Inves=() =>{
                       veritatis delectus repellat modi impedit sequi.
                     </p>
                     <div className="btn-box">
-                      <a href="/invesreg" className="btn1">
+                      <a href="/investorRegistration" className="btn1">
                         Get Started
                       </a>
                     </div>

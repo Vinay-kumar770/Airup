@@ -24,6 +24,11 @@ module.exports = {
       chainId: 324,
       zksync: true,
     },
+    hardhat: {},
+    sepholia: {
+      url: 'https://rpc.ankr.com/eth_sepolia',
+      accounts: [`0x${process.env.PRIVATE_KEY}`]
+    },
   },
   paths: {
     artifacts: "./artifacts-zk",
@@ -33,13 +38,6 @@ module.exports = {
   },
   solidity: {
     version: "0.8.17",
-    networks:{
-      hardhat:{},
-      sepholia:{
-        url: 'https://rpc.ankr.com/eth_sepolia',
-        accounts: [`0x${process.env.PRIVATE_KEY}`]
-        }
-    },
     settings: {
       optimizer: {
         enabled: true,

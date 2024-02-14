@@ -5,9 +5,10 @@ import AirUP from "./open/airup";
 import Entre from './entre/entre';
 import Inves from './inves/inves';
 import SubmissionForm from './entre/pages/submission';
-import Register from './entre/pages/signin/sign';
-import Auction from './inves/pages/auction';
-import InvesRegister from './inves/pages/sign';
+import EntrepreneurRegister from './entre/pages/signin/sign';
+import InvestorRegister from './inves/pages/sign';
+import InvestorDashboard from './inves/pages/dashboard';
+import EntrepreneurDashboard from './entre/pages/Dashboard';
 
 class App extends React.Component { // Use React.Component for class-based components
   render() {
@@ -21,12 +22,18 @@ class App extends React.Component { // Use React.Component for class-based compo
       <Router>
         <Routes>
          <Route  path="/" element={<AirUP />} />
-         <Route path="/entre" element={<Entre/>}/>
-         <Route  path="/inves" element={<Inves/>}/>
-         <Route path="/sub" element ={<SubmissionForm/>}/>
-         <Route path="/entrereg" element={<Register/>}/>
-         <Route path="/invesreg" element={<InvesRegister/>}/>
-         <Route path="/auction" element={<Auction/>}/>
+         <Route path="/entrepreneur" element={<Entre/>}/>
+         <Route  path="/investor" element={<Inves/>}/>
+         <Route path="/entrepreneurRegistration" element={<EntrepreneurRegister/>}/>
+         <Route path="/investorRegistration" element={<InvestorRegister/>}/>
+         <Route path="/investor/:userId" element={<InvestorDashboard/>}/>
+         <Route path="/investor/:userId/profile" element={<InvestorDashboard/>}/>
+         <Route path="/investor/:userId/listIdeas" element={<InvestorDashboard/>}/>
+         <Route path="/investor/:userId/:ideaId" element={<InvestorDashboard/>}/>
+         <Route path="/investor/:userId/myBids" element={<InvestorDashboard/>}/>
+         <Route path="/entrepreneur/:userId" element={<EntrepreneurDashboard/>}/>
+         <Route path="/entrepreneur/:userId/submission" element ={<SubmissionForm/>}/>
+
       </Routes>
 
       </Router>

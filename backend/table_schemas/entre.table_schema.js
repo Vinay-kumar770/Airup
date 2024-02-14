@@ -23,7 +23,7 @@ const usersSchema = new Schema({
   },
   phone_number: {
     type: String,
-    required: true,
+    required: false,
   },
   isAdmin:{
     type:Boolean,

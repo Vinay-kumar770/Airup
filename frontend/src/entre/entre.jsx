@@ -205,7 +205,7 @@ const logo_carousel = {
             </div>
           </div>
           <div className="col-4 col-lg-2 text-right">
-            <a href="/entrereg" className="logibtn gradient-btn">
+            <a href="/entrepreneurRegistration" className="logibtn gradient-btn">
               Get Started
             </a>
           </div>

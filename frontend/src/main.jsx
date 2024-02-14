@@ -1,8 +1,4 @@
 import React from "react";
-import { createRoot } from "react-dom/client";
-import App from "./App";
-import { ThirdwebProvider } from "@thirdweb-dev/react";
-
 import $ from 'jquery'; 
 import Popper from 'popper.js'; 
 import 'bootstrap/dist/js/bootstrap.bundle.min';
@@ -10,18 +6,23 @@ import 'bootstrap/dist/js/bootstrap.bundle.min';
 import "bootstrap/dist/css/bootstrap.min.css";
 // Bootstrap Bundle JS
 import "bootstrap/dist/js/bootstrap.bundle.min";
+import ReactDom from "react-dom/client";
+import { BrowserRouter as Router } from "react-router-dom";
+import { ChainId, ThirdwebProvider } from "@thirdweb-dev/react";
+import { Sepolia } from "@thirdweb-dev/chains";
 
-const activeChain = "ethereum";
+import App from "./App";
+import { StateContextProvider } from "./context";
+const root = ReactDom.createRoot(document.getElementById("root"));
 
-const container = document.getElementById("root");
-const root = createRoot(container);
 root.render(
-  <React.StrictMode>
-    <ThirdwebProvider
-      clientId={import.meta.env.VITE_TEMPLATE_CLIENT_ID}
-      activeChain={activeChain}
-    >
-      <App />
-    </ThirdwebProvider>
-  </React.StrictMode>
+  <ThirdwebProvider
+    desiredChainId={11155111}
+    activeChain={Sepolia}
+    clientId="bc45be29fd666ed160348f9cd5aab11f"
+  >
+      <StateContextProvider>
+        <App />
+      </StateContextProvider>
+  </ThirdwebProvider>
 );

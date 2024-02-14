@@ -295,3 +295,2866 @@
   },
   "query": {}
 }
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "ideaname": "airup10",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airup10",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airup10",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airup10",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airup10",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airup10",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airup10",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airup10",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airup10",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {},
+  "query": {}
+}
+{
+  "body": {},
+  "query": {}
+}
+{
+  "body": {},
+  "query": {}
+}
+{
+  "body": {},
+  "query": {}
+}
+{
+  "body": {},
+  "query": {}
+}
+{
+  "body": {},
+  "query": {}
+}
+{
+  "body": {},
+  "query": {}
+}
+{
+  "body": {},
+  "query": {}
+}
+{
+  "body": {},
+  "query": {}
+}
+{
+  "body": {},
+  "query": {}
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "name": "vinay",
+    "email": "vinay@gmail.com",
+    "password": "1234567ui"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "name": "vinay",
+    "email": "Vinay@gmail.com",
+    "password": "Vinay@2002"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "username": "",
+    "email": "vinay@gmail.com",
+    "password": "23456789"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "username": "sdfghjk",
+    "email": "sdfghjk@gmail.com",
+    "password": "sdfghjk"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "username": "vinay",
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "Vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "Vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "Vinay@Gmail.Com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "Vinay@Gmail.Com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "Vinay@Gmail.Com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "Vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "Vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "",
+    "password": ""
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "username": "",
+    "email": "",
+    "password": ""
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "username": "",
+    "email": "",
+    "password": ""
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "username": "",
+    "email": "",
+    "password": ""
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "username": "vinay",
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "username": "vinay",
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "ertyui",
+    "problemStatement": "tyuiop",
+    "oneLinerSolution": "ertyuiop",
+    "detailedSolution": "dfghjkl;",
+    "businessModel": "fghjkl;",
+    "competition": "fxcjkl",
+    "yourProfession": "rtyuio",
+    "equity": "fghjk",
+    "amount": "dfghjkl",
+    "noOfDays": "fghjkl",
+    "debtIfRequired": "fghjkl"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "ertyui",
+    "problemStatement": "tyuiop",
+    "oneLinerSolution": "ertyuiop",
+    "detailedSolution": "dfghjkl;",
+    "businessModel": "fghjkl;",
+    "competition": "fxcjkl",
+    "yourProfession": "rtyuio",
+    "equity": "fghjk",
+    "amount": "dfghjkl",
+    "noOfDays": "fghjkl",
+    "debtIfRequired": "fghjkl"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "fghjkl",
+    "problemStatement": "erhjvjh\n\n",
+    "oneLinerSolution": "urbjjbja",
+    "detailedSolution": "urtuvv",
+    "businessModel": "jvejfvgfjs",
+    "competition": "fghjkl;",
+    "yourProfession": "hrvsdav",
+    "equity": "veruvt",
+    "amount": "vhervt",
+    "noOfDays": "varthv",
+    "debtIfRequired": "vvrevjbjbj"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "fghjkl",
+    "problemStatement": "erhjvjh\n\n",
+    "oneLinerSolution": "urbjjbja",
+    "detailedSolution": "urtuvv",
+    "businessModel": "jvejfvgfjs",
+    "competition": "fghjkl;",
+    "yourProfession": "hrvsdav",
+    "equity": "veruvt",
+    "amount": "vhervt",
+    "noOfDays": "varthv",
+    "debtIfRequired": "vvrevjbjbj"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "dfghjk",
+    "problemStatement": "ghjkl",
+    "oneLinerSolution": "fghjkl",
+    "detailedSolution": "dfghjkl",
+    "businessModel": "fghjkl",
+    "competition": "rwt",
+    "yourProfession": "wtrj",
+    "equity": "dfghjkl",
+    "amount": "15",
+    "noOfDays": "51",
+    "debtIfRequired": "wg3re"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "sdfghjkl",
+    "problemStatement": "dfghjk",
+    "oneLinerSolution": "tjrjyryj",
+    "detailedSolution": "reky",
+    "businessModel": "4w6jy",
+    "competition": "ryjjy",
+    "yourProfession": "rykk",
+    "equity": "tajj",
+    "amount": "tejtj",
+    "noOfDays": "stjsj",
+    "debtIfRequired": "esjsj"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "sdfghjkl",
+    "problemStatement": "dfghjk",
+    "oneLinerSolution": "tjrjyryj",
+    "detailedSolution": "reky",
+    "businessModel": "4w6jy",
+    "competition": "ryjjy",
+    "yourProfession": "rykk",
+    "equity": "tajj",
+    "amount": "tejtj",
+    "noOfDays": "stjsj",
+    "debtIfRequired": "esjsj"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "fjsj",
+    "problemStatement": "gfxm",
+    "oneLinerSolution": "yryk",
+    "detailedSolution": "rtjsy",
+    "businessModel": "jrsj",
+    "competition": "drfj",
+    "yourProfession": "strj",
+    "equity": "srjg",
+    "amount": "drjk",
+    "noOfDays": "rstu",
+    "debtIfRequired": "stjkktd"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "fjsj",
+    "problemStatement": "gfxm",
+    "oneLinerSolution": "yryk",
+    "detailedSolution": "rtjsy",
+    "businessModel": "jrsj",
+    "competition": "drfj",
+    "yourProfession": "strj",
+    "equity": "srjg",
+    "amount": "drjk",
+    "noOfDays": "rstu",
+    "debtIfRequired": "stjkktd"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "sgshh",
+    "problemStatement": "na sdj ",
+    "oneLinerSolution": "as hvgvrj",
+    "detailedSolution": "a s j j ",
+    "businessModel": "afjbabfj",
+    "competition": "djbbfb",
+    "yourProfession": "ajgbbdjb",
+    "equity": "jjsdjbb",
+    "amount": "jsdjjfgjb",
+    "noOfDays": "jebjrb",
+    "debtIfRequired": "jjbjgfjj"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "xxfhg",
+    "problemStatement": "xyjgccjgh",
+    "oneLinerSolution": "gxgjgh",
+    "detailedSolution": "gcgcgku",
+    "businessModel": "gcuguuk",
+    "competition": "dyxfj",
+    "yourProfession": "cgcjg",
+    "equity": "xhjhkh",
+    "amount": "xjhxhh",
+    "noOfDays": "xjhgkh",
+    "debtIfRequired": "ghchgj"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "dfd ",
+    "problemStatement": "dsf",
+    "oneLinerSolution": "afvff",
+    "detailedSolution": "sdfvf",
+    "businessModel": "dfvfv",
+    "competition": "fvafv",
+    "yourProfession": "fvvf",
+    "equity": "fafd",
+    "amount": "ffvvfe",
+    "noOfDays": "effve",
+    "debtIfRequired": "efvv"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "userName": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airup",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airupasdfghj",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaname": "airupasdfghjhgjjgc",
+    "problemstatement": "airup platform",
+    "onelinersolution": "interface between investor and entre",
+    "detailedsolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessmodel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourprofession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noofdays": "12",
+    "debtifrequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "ideaName": "airupasdfghjhgjjgc",
+    "problemStatement": "airup platform",
+    "oneLinerSolution": "interface between investor and entre",
+    "detailedSolution": "asdfghjksdfghjksdfghjksdfgh",
+    "businessModel": "sdfghjksdfghjkdfghjk",
+    "competition": "sdfghjkdfghj",
+    "yourProfession": "sdfghjksdfghjk",
+    "equity": "12345678",
+    "amount": "23456789",
+    "noOfDays": "12",
+    "debtIfRequired": "yes"
+  },
+  "query": {}
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "headers": {
+      "Authorization": "Bearer undefined"
+    }
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "headers": {
+      "Authorization": "Bearer undefined"
+    }
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "kjvkhjc",
+    "problemStatement": "dlmvdfkjfgjk",
+    "oneLinerSolution": "jsdhjfg",
+    "detailedSolution": "rbghtntnh",
+    "businessModel": "yhnhytyth",
+    "competition": "hyhthb b",
+    "yourProfession": "hthbtbh",
+    "equity": "hthhbyh",
+    "amount": "hbyhbthb",
+    "noOfDays": "hbyhhbth",
+    "debtIfRequired": "hbthbthb"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "headers": {
+      "Authorization": "Bearer undefined"
+    }
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "kjvkhjc",
+    "problemStatement": "dlmvdfkjfgjk",
+    "oneLinerSolution": "jsdhjfg",
+    "detailedSolution": "rbghtntnh",
+    "businessModel": "yhnhytyth",
+    "competition": "hyhthb b",
+    "yourProfession": "hthbtbh",
+    "equity": "hthhbyh",
+    "amount": "hbyhbthb",
+    "noOfDays": "hbyhhbth",
+    "debtIfRequired": "hbthbthb"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "jjbfjhbksj kf sd",
+    "problemStatement": "dlmvdfkjfgjk",
+    "oneLinerSolution": "jsdhjfg",
+    "detailedSolution": "rbghtntnh",
+    "businessModel": "yhnhytyth",
+    "competition": "hyhthb b",
+    "yourProfession": "hthbtbh",
+    "equity": "hthhbyh",
+    "amount": "hbyhbthb",
+    "noOfDays": "hbyhhbth",
+    "debtIfRequired": "hbthbthb"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "vinay",
+    "problemStatement": "dlmvdfkjfgjk",
+    "oneLinerSolution": "jsdhjfg",
+    "detailedSolution": "rbghtntnh",
+    "businessModel": "yhnhytyth",
+    "competition": "hyhthb b",
+    "yourProfession": "hthbtbh",
+    "equity": "hthhbyh",
+    "amount": "hbyhbthb",
+    "noOfDays": "hbyhhbth",
+    "debtIfRequired": "hbthbthb"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "vinay",
+    "problemStatement": "dlmvdfkjfgjk",
+    "oneLinerSolution": "jsdhjfg",
+    "detailedSolution": "rbghtntnh",
+    "businessModel": "yhnhytyth",
+    "competition": "hyhthb b",
+    "yourProfession": "hthbtbh",
+    "equity": "hthhbyh",
+    "amount": "hbyhbthb",
+    "noOfDays": "hbyhhbth",
+    "debtIfRequired": "hbthbthb"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "qwertyuio",
+    "problemStatement": "a sjkdf",
+    "oneLinerSolution": "asjjkdj",
+    "detailedSolution": " jhksah",
+    "businessModel": "ajhsffl",
+    "competition": "asjkjhkas",
+    "yourProfession": "jaaskjh",
+    "equity": "askjd",
+    "amount": "jkhsaah",
+    "noOfDays": "jkasbbc",
+    "debtIfRequired": "vasdkhj"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "vhdsk",
+    "problemStatement": "jvdvkk",
+    "oneLinerSolution": "bjfjgj",
+    "detailedSolution": "dfvjjdjgj",
+    "businessModel": "jbasbbg",
+    "competition": "bjgbfk",
+    "yourProfession": "asbkkg",
+    "equity": "abkgbdk",
+    "amount": "sabjbbja",
+    "noOfDays": "sjgjbj",
+    "debtIfRequired": "bjbfjgj"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "vjfaja",
+    "problemStatement": "djfjj",
+    "oneLinerSolution": "jsdbjfb",
+    "detailedSolution": "dsbjbjgb",
+    "businessModel": "bbbsdf",
+    "competition": "sdbjgb",
+    "yourProfession": "jbsjbdjgbj",
+    "equity": "sjbgbj",
+    "amount": "fgjj",
+    "noOfDays": "jdsgfj",
+    "debtIfRequired": "jvsjjd"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "vjfaja",
+    "problemStatement": "djfjj",
+    "oneLinerSolution": "jsdbjfb",
+    "detailedSolution": "dsbjbjgb",
+    "businessModel": "bbbsdf",
+    "competition": "sdbjgb",
+    "yourProfession": "jbsjbdjgbj",
+    "equity": "sjbgbj",
+    "amount": "fgjj",
+    "noOfDays": "jdsgfj",
+    "debtIfRequired": "jvsjjd"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "vjfajhsajk",
+    "problemStatement": "djfjj",
+    "oneLinerSolution": "jsdbjfb",
+    "detailedSolution": "dsbjbjgb",
+    "businessModel": "bbbsdf",
+    "competition": "sdbjgb",
+    "yourProfession": "jbsjbdjgbj",
+    "equity": "sjbgbj",
+    "amount": "fgjj",
+    "noOfDays": "jdsgfj",
+    "debtIfRequired": "jvsjjd"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "hvjvjcj",
+    "problemStatement": "vhvdvj",
+    "oneLinerSolution": "savjj",
+    "detailedSolution": "kdsfjdsk",
+    "businessModel": "dsfhjfhds",
+    "competition": "vsjkdfkf",
+    "yourProfession": "vsdjvhj",
+    "equity": "jhkdsvhfvk",
+    "amount": "kjsbdv kjbf",
+    "noOfDays": "ds h j j",
+    "debtIfRequired": "ajsvjf"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "lhkvjfkev",
+    "problemStatement": "cgvdfkdkv",
+    "oneLinerSolution": "hvfdhhdfs",
+    "detailedSolution": "fhdhfvbhb",
+    "businessModel": "lvhdrhse",
+    "competition": "edvhrheshkj",
+    "yourProfession": "hhhhhdv f ",
+    "equity": "hvhrdjjb",
+    "amount": "djfjvj",
+    "noOfDays": "vejjvj",
+    "debtIfRequired": "vjsvjvfjcjj"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "vjsajjsaj",
+    "problemStatement": "jasjvvsjd",
+    "oneLinerSolution": "jvsjvfffkk",
+    "detailedSolution": "  skkas",
+    "businessModel": "abbbkgbd",
+    "competition": "asjbdb",
+    "yourProfession": "akbbvs",
+    "equity": "abdsb",
+    "amount": "ajbbjbjgs",
+    "noOfDays": "jgbfjjda",
+    "debtIfRequired": "ajjbjbjbg"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "ideaName": "vinaykumar",
+    "problemStatement": "jasjvvsjd",
+    "oneLinerSolution": "jvsjvfffkk",
+    "detailedSolution": "  skkas",
+    "businessModel": "abbbkgbd",
+    "competition": "asjbdb",
+    "yourProfession": "akbbvs",
+    "equity": "abdsb",
+    "amount": "ajbbjbjgs",
+    "noOfDays": "jgbfjjda",
+    "debtIfRequired": "ajjbjbjbg"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}

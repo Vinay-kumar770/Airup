@@ -1,80 +1,88 @@
 import mongoose from 'mongoose';
 
 const { Schema } = mongoose;
+
+// Define the schema for bids
 const bidSchema = new Schema({
-    id:{
-        type:String,
-        require:true,
+    id: {
+        type: String,
+        required: true, // Corrected from 'require' to 'required'
     },
     name: {
         type: String,
-        require:true,
+        required: true, // Corrected from 'require' to 'required'
     },
-    amount:{
+    amount: {
         type: Number,
-        require: true,
+        required: true, // Corrected from 'require' to 'required'
+    },
+    status: {
+        type: Boolean,
+        default:false,
+        required: false, // It's okay to explicitly state this, but it's not necessary unless you want to enforce clarity
     }
 });
-const ideaschema = new Schema({
-    created_by:{
-        type: String,
-        require:false,
-    },
-    ideaname:{
-        type: String,
-        require:true,
-    },
-    problemstatement:{
-        type: String,
-        require:true,
-    },
-    onelinersolution:{
-        type: String,
-        require:true,
-    },
-    detailedsolution:{
-        type: String,
-        require:true,
-    },
-    businessmodel:{
-        type: String,
-        require:true,
-    },
-    competition:{
-        type: String,
-        require:true,
-    },
-    yourprofession:{
-        type: String,
-        require:true,
-    },
-    equity:{
-        type: String,
-        require:true,
-    },
-    amount:{
-        type: String,
-        require:true,
-    },
-    noofdays:{
-        type: String,
-        require:true,
-    },
-    debtifrequired:{
-        type: String,
-        require:true,
-    },
-    ideaStatus:{
-        type:Boolean,
-        require:false,
-        default:false,
-    },
-    totalBids:[bidSchema],
-    confirmedBids:[bidSchema]
-},
-{
-    timestamps: true,
-  }
-)
 
-export default mongoose.model("Idea", ideaschema);
+// Define the schema for ideas
+const ideaSchema = new Schema({
+    created_by: {
+        type: String,
+        required: false, // Corrected from 'require' to 'required'
+    },
+    ideaName: {
+        type: String,
+        required: true,
+    },
+    problemStatement: {
+        type: String,
+        required: true,
+    },
+    oneLinerSolution: {
+        type: String,
+        required: true,
+    },
+    detailedSolution: {
+        type: String,
+        required: true,
+    },
+    businessModel: {
+        type: String,
+        required: true,
+    },
+    competition: {
+        type: String,
+        required: true,
+    },
+    yourProfession: {
+        type: String,
+        required: true,
+    },
+    equity: {
+        type: String,
+        required: true,
+    },
+    amount: {
+        type: String,
+        required: true,
+    },
+    noOfDays: {
+        type: String,
+        required: true,
+    },
+    debtIfRequired: {
+        type: String,
+        required: true,
+    },
+    ideaStatus: {
+        type: Boolean,
+        required: false,
+        default: false,
+    },
+    totalBids: [bidSchema],
+    confirmedBids: [bidSchema]
+}, {
+    timestamps: true,
+});
+
+// Export the model, with the name "Idea" based on the ideaSchema
+export default mongoose.model("Idea", ideaSchema);

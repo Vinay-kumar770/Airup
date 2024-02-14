@@ -1,20 +1,40 @@
-import { useState } from "react";
+import React, { useState } from "react";
+import { useParams } from "react-router-dom";
 import styles from "../assets/css/form.module.css";
 import FormInput from "../components/FormInput";
+import axiosInstance from "../../axios/newRequest";
+import Cookies from "js-cookie";
+import { ethers } from "ethers";
+import { useStateContext } from "../../context";
 
 const SubmissionForm = () => {
+  const { submitIdea,connect,address} =useStateContext();
+  if (address) {
+    console.log("Address", address);
+  } else {
+    connect();
+  }
   const [values, setValues] = useState({
-    username: "",
-    email: "",
-    birthday: "",
-    password: "",
-    confirmPassword: "",
+    ideaName: "",
+    problemStatement: "",
+    oneLinerSolution: "",
+    detailedSolution: "",
+    businessModel: "",
+    competition: "",
+    yourProfession: "",
+    equity: "",
+    amount: "",
+    noOfDays: "",
+    debtIfRequired: "",
+    //file: null, // Added for file
   });
 
+  const { userId } = useParams();
+  const accessToken = Cookies.get("accessToken");
   const inputs = [
     {
       id: 1,
-      name: "Idea Name",
+      name: "ideaName",
       type: "text",
       placeholder: "Idea Name",
       rows:1,
@@ -24,7 +44,7 @@ const SubmissionForm = () => {
     },
     {
       id: 2,
-      name: "Problem Statement",
+      name: "problemStatement",
       type: "text",
       placeholder: "Statement",
       rows:4,
@@ -33,7 +53,7 @@ const SubmissionForm = () => {
     },
     {
       id: 3,
-      name: "One Liner Solution",
+      name: "oneLinerSolution",
       type: "text",
       rows:1,
       placeholder: "One Liner Solution",
@@ -42,7 +62,7 @@ const SubmissionForm = () => {
     },
     {
       id: 4,
-      name: "Detailed Solution",
+      name: "detailedSolution",
       type: "text",
       rows:4,
       placeholder: "Detailed Solution",
@@ -51,7 +71,7 @@ const SubmissionForm = () => {
     },
     {
       id: 5,
-      name: "Business Model",
+      name: "businessModel",
       type: "text",
       rows:3,
       placeholder: "Business Model",
@@ -60,7 +80,7 @@ const SubmissionForm = () => {
     },
     {
       id: 6,
-      name: "Competition",
+      name: "competition",
       type: "text",
       rows:1,
       placeholder: "Competition",
@@ -69,7 +89,7 @@ const SubmissionForm = () => {
     },
     {
       id: 7,
-      name: "Your Profession",
+      name: "yourProfession",
       type: "text",
       rows:1,
       placeholder: "Your Profession",
@@ -78,7 +98,7 @@ const SubmissionForm = () => {
     },
     {
       id: 8,
-      name: "Equity",
+      name: "equity",
       type: "text",
       rows:1,
       placeholder: "Equity",
@@ -87,7 +107,7 @@ const SubmissionForm = () => {
     },
     {
       id: 9,
-      name: "Amount",
+      name: "amount",
       type: "text",
       rows:1,
       placeholder: "Amount",
@@ -96,7 +116,7 @@ const SubmissionForm = () => {
     },
     {
       id: 10,
-      name: "No of days(Until active action)",
+      name: "noOfDays",
       type: "text",
       rows:1,
       placeholder: "No of days(Until active action)",
@@ -105,7 +125,7 @@ const SubmissionForm = () => {
     },
     {
       id: 11,
-      name: "Debt if required",
+      name: "debtIfRequired",
       type: "text",
       rows:1,
       placeholder: "Debt if required",
@@ -114,17 +134,46 @@ const SubmissionForm = () => {
     },
   ];
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
+  
+    const ideaDataString = JSON.stringify(values); // Serialize form values to a string
+  
+    // Submit to the blockchain
+    try {
+      await submitIdea(ideaDataString); // Assuming IdeaSubmission handles the serialization internally if needed
+  
+      // Proceed with the Axios call if needed after successful blockchain submission
+      const response = await axiosInstance.post(`/backend/entrepreneur/${userId}/ideaSubmission`, values, {
+        headers: {
+          Authorization: `Bearer ${accessToken}`,
+          // "Content-Type": "application/json" is typically not needed as Axios sets it automatically for JSON payloads
+        },
+      });
+  
+      if ('data' in response && response.data) {
+        console.log('Submission successful', response.data);
+      } else {
+        console.error('Submission was not successful', response.data.message); // Assuming the response contains a message field for errors
+      }
+    } catch (error) {
+      console.error('There was an error submitting the form:', error.response ? error.response.data : error);
+    }
   };
+  
+  
 
   const onChange = (e) => {
-    setValues({ ...values, [e.target.name]: e.target.value });
+    if (e.target.type === "file") {
+      setValues({ ...values, file: e.target.files[0] }); // Update for file
+    } else {
+      setValues({ ...values, [e.target.name]: e.target.value });
+    }
   };
 
   return (
     <div className={styles.App}>
-      <form className={styles.Form} onSubmit={handleSubmit}>
+      <form className={styles.Form} onSubmit={handleSubmit} encType="multipart/form-data">
         <h1 className={styles.FormHeader}>Idea Submission</h1>
         {inputs.map((input) => (
           <FormInput
@@ -134,13 +183,14 @@ const SubmissionForm = () => {
             onChange={onChange}
           />
         ))}
-    <div>
-        <label className={styles.Label}>Choose a file:</label>
-        <input
-          type="file"
-          accept=".pdf, .jpg, .png" // Specify the file types you want to accept
-        />
-      </div>
+        <div>
+          <label className={styles.Label}>Choose a file:</label>
+          <input
+            type="file"
+            accept=".pdf, .jpg, .png"
+            //onChange={onChange} // Updated to use the same onChange handler
+          />
+        </div>
         <button className={styles.Submit} type="submit">Submit</button>
       </form>
     </div>
@@ -148,6 +198,3 @@ const SubmissionForm = () => {
 };
 
 export default SubmissionForm;
-
-
-

@@ -5,10 +5,8 @@ import mongoose from "mongoose";
 import cookieParser from "cookie-parser";
 import logRequest from "./middleware/logRequest.js";
 import setupCluster from "./otherFiles/multipleRequestHandling.cjs";
-import user_account_Route from "./routes/entre_account.route.js";
-import authChecker from "./routes/auth-check.route.js";
-/*import company_account_authentication_Route from "./routes/companies_account_authentication.route.js";
-import adminRoute from "./routes/admin.routes.js";*/
+import EntrepreneurRoute from "./routes/entre_account.route.js";
+import InvestorRoute from "./routes/inves_account.route.js";
 
 const port = process.env.PORT || 8800;
 
@@ -59,19 +57,9 @@ function startServer() {
   app.use(cookieParser());
 
   // All the routes in the application are defined here
-  app.use("/backend/users_account", user_account_Route);
-  app.use("/backend/auth-check", authChecker);
-  app.use("/backend/testing", (req, res) => {
-    res.send("working");
-  });
-  /*app.use(
-    "/backend/company_account_authentication",
-    company_account_authentication_Route
-  );
-  app.use("/backend/admin_route", adminRoute);
-  */
-
-  // const httpsServer = https.createServer(credentials, app);
+  app.use("/backend/entrepreneur",EntrepreneurRoute);
+  app.use("/backend/investors",InvestorRoute);
+  
   app.listen(port, () => {
     console.log(`HTTP Server running on port ${port}`);
     connect();
