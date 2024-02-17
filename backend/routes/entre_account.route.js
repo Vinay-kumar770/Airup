@@ -16,7 +16,7 @@ EntrepreneurRoute.post("/register", register);
 EntrepreneurRoute.post("/login", login);
 EntrepreneurRoute.post("/logout", logout);
 EntrepreneurRoute.post("/:userId/ideaSubmission", authenticateJWT, idea_submit);
-EntrepreneurRoute.post("/:userId/entre_ideas", authenticateJWT, entre_ideas);
+EntrepreneurRoute.get("/:userId/entre_ideas", authenticateJWT, entre_ideas);
 EntrepreneurRoute.get("/:userId/allInvestors",list_of_investors)
 
 export default EntrepreneurRoute;

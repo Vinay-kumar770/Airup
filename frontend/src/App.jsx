@@ -9,6 +9,8 @@ import EntrepreneurRegister from './entre/pages/signin/sign';
 import InvestorRegister from './inves/pages/sign';
 import InvestorDashboard from './inves/pages/dashboard';
 import EntrepreneurDashboard from './entre/pages/Dashboard';
+import EntrepreneurIdeas from './entre/pages/myIdeas';
+import EntrepreneurListInvestors from './entre/pages/investors';
 
 class App extends React.Component { // Use React.Component for class-based components
   render() {
@@ -33,7 +35,8 @@ class App extends React.Component { // Use React.Component for class-based compo
          <Route path="/investor/:userId/myBids" element={<InvestorDashboard/>}/>
          <Route path="/entrepreneur/:userId" element={<EntrepreneurDashboard/>}/>
          <Route path="/entrepreneur/:userId/submission" element ={<SubmissionForm/>}/>
-
+         <Route path="/entrepreneur/:userId/Myideas" element ={<EntrepreneurIdeas/>}/>
+         <Route path="/entrepreneur/:userId/ListInvestors" element ={<EntrepreneurListInvestors/>}/>
       </Routes>
 
       </Router>

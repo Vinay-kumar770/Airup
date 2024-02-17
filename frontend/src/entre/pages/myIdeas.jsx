@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from 'react';
 import axiosInstance from "../../axios/newRequest";
-import { useNavigate,useParams } from 'react-router-dom';
+import { useNavigate,useParams,Link } from 'react-router-dom';
 import Cookies from 'js-cookie';
 
-const InvestorDashboard = () => {
+const EntrepreneurIdeas = () => {
   // Initialize ideaData as an array since you're expecting a list of ideas
-  const [ideaData, setIdeaData] = useState([]);
+  const [ideaData, setideaData] = useState([]);
   const navigate=useNavigate();
   const { userId } = useParams();
   const accessToken = localStorage.getItem("accessToken");
@@ -13,11 +13,11 @@ const InvestorDashboard = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axiosInstance.get(`/backend/investors/${userId}/listideas`);
+        const response = await axiosInstance.get(`/backend/entrepreneur/${userId}/entre_ideas`);
         const fetchedData = response.data;
         // Adjust here to set ideaData with the array found at fetchedData.msg
         if (fetchedData.msg && fetchedData.msg.length > 0) {
-          setIdeaData(fetchedData.msg);
+          setideaData(fetchedData.msg);
         }
       } catch (error) {
         console.error("There was an error fetching the data:", error);
@@ -29,41 +29,25 @@ const InvestorDashboard = () => {
   useEffect(() => {
     if (!isAuthenticated) {
       // Redirect to login page if not authenticated
-      navigate("/investor");
+      navigate("/");
     }
   }, [isAuthenticated, navigate]);
 
-  const handleLogout = () => {
-    axiosInstance
-      .post('/backend/investors/logout')
-      .then(() => {
-        Cookies.remove('accessToken');
-        localStorage.removeItem('accessToken');
-        setIsAuthenticated(false);
-        navigate('/investor');
-      })
-      .catch((error) => {
-        console.error(error);
-      });
-  };
+
 
   return (
     <>
       <div>
-        {ideaData.map((idea) => (
+        {ideaData.map((id) => (
           // Correctly using idea._id for the key prop as your data structure suggests
-          <div key={idea._id}>
-            <h2>{idea.ideaname}</h2>
-            {/* You can display more properties here as needed */}
-            <p>Problem Statement: {idea.problemStatement}</p>
-            <p>One Line Solution: {idea.oneLinerSolution}</p>
-            {/* Add more properties to display as needed */}
+          <div key={id._id} style={{border:"1px solid black"}}>
+            <h2>{id.ideaName}</h2>
+            <h2>{id.problemStatement}</h2>
           </div>
         ))}
-        <button onClick={handleLogout}>Logout</button>
       </div>
     </>
   );
 };
 
-export default InvestorDashboard;
+export default EntrepreneurIdeas;

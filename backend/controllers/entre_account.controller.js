@@ -1,14 +1,32 @@
-
 import Users from "../table_schemas/entre.table_schema.js";
 import Idea from "../table_schemas/idea.table_schema.js";
 import Investors from "../table_schemas/inves.table_schema.js";
 import bcrypt from "bcrypt";
 import jwt from 'jsonwebtoken';
+import multer from 'multer';
 import { v4 as uuidv4 } from 'uuid';
 import dotenv from 'dotenv';
 
 dotenv.config();
+const storage = multer.diskStorage({
+    destination: (req, file, cb) => {
+        cb(null, 'uploads/');
+    },
+    filename: (req, file, cb) => {
+        cb(null, new Date().toISOString() + '-' + file.originalname);
+    },
+});
 
+const fileFilter = (req, file, cb) => {
+    // Accept images only
+    if (file.mimetype.startsWith('image')) {
+        cb(null, true);
+    } else {
+        cb(new Error('Not an image! Please upload only images.'), false);
+    }
+};
+
+const upload = multer({ storage: storage, fileFilter: fileFilter }).single('ideaImage');
 /**This part is for registering a user */
 export const register = async (req, res) => {
     try {
@@ -104,25 +122,46 @@ export const logout = async (req, res) => {
 
 
 /**This part is for logging out*/
-export const idea_submit = async (req,res) => {
-    try{
-        console.log(req.body);
-        const userId = req.params.userId;
-        const {ideaName, problemStatement, oneLinerSolution, detailedSolution, businessModel,competition, yourProfession, equity, amount, noOfDays, debtIfRequired}=req.body;
-        
-        const ideaExist = await Idea.findOne({ideaName});
+export const idea_submit = async (req, res) => {
+    console.log("vin"+req.body.data);
+    console.log("kum"+req.body.data);
+    upload(req, res, async (error) => {
+        if (error) {
+            return res.status(400).json({ msg: error.message });
+        } else {
+            const userId = req.params.userId;
+            const { ideaName, problemStatement, oneLinerSolution, detailedSolution, businessModel, competition, yourProfession, equity, amount, noOfDays, debtIfRequired } = req.body;
+            const filePath = req.file ? req.file.path : null;
 
-        if(ideaExist){
-            return res.status(400).json({msg: "idea already exist"});
+            try {
+                const ideaExist = await Idea.findOne({ ideaName });
+                if (ideaExist) {
+                    return res.status(400).json({ msg: "Idea already exists" });
+                }
+
+                const ideaCreated = await Idea.create({
+                    created_by: userId,
+                    ideaName,
+                    problemStatement,
+                    oneLinerSolution,
+                    detailedSolution,
+                    businessModel,
+                    competition,
+                    yourProfession,
+                    equity,
+                    amount,
+                    noOfDays,
+                    debtIfRequired,
+                    filePath // Save the file path
+                });
+
+                res.status(200).json({ msg: "Idea submitted successfully", idea: ideaCreated });
+            } catch (error) {
+                console.log(error);
+                res.status(400).json({ msg: "Error processing your submission" });
+            }
         }
-
-        const ideacreated = await Idea.create({created_by:userId,ideaName, problemStatement, oneLinerSolution, detailedSolution, businessModel,competition, yourProfession, equity, amount, noOfDays, debtIfRequired});
-
-        res.status(200).json({msg: ideacreated});
-    }catch(error){
-        console.log(error);
-        res.status(400).json({msg:"page not found"})
-    }
+    });
 };
 
 export const entre_ideas = async (req, res) => {

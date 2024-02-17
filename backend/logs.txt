@@ -3158,3 +3158,1169 @@
   "query": {},
   "origin": "http://localhost:5174"
 }
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "username": "Director",
+    "password": "Director@123"
+  },
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "username": "Vinay",
+    "email": "vinayqwertyuio@gmail.com",
+    "password": "12345"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "email": "vinayqwertyuio@gmail.com",
+    "password": "12345"
+  },
+  "query": {}
+}
+{
+  "body": {},
+  "query": {}
+}
+{
+  "body": {
+    "username": "Vinay",
+    "email": "vinayqwertyuio@gmail.com",
+    "password": "12345"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "username": "Vinay",
+    "email": "vinayqwertyuio@gmail.com",
+    "password": "12345"
+  },
+  "query": {}
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "username": "Vinaykumar",
+    "email": "vinayqwefbjbfrtyuio@gmail.com",
+    "password": "12345"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "email": "vinayqwefbjbfrtyuio@gmail.com",
+    "password": "12345"
+  },
+  "query": {}
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {}
+}
+{
+  "body": {
+    "email": "vinayqwefbjbfrtyuio@gmail.com",
+    "password": "12345"
+  },
+  "query": {}
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "email": "vinayqwefbjbfrtyuio@gmail.com",
+    "password": "12345"
+  },
+  "query": {}
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {}
+}
+{
+  "body": {},
+  "query": {}
+}
+{
+  "body": {},
+  "query": {}
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {}
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {}
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "username": "Vinaykumar",
+    "email": "vinayqwefbjbfrtyuio@gmail.com",
+    "password": "12345"
+  },
+  "query": {}
+}
+{
+  "body": {
+    "username": "Vinaykumar",
+    "email": "vinayqwefbjbfrtyuio@gmail.com",
+    "password": "12345"
+  },
+  "query": {}
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {
+    "email": "vinayqwefbjbfrtyuio@gmail.com",
+    "password": "12345"
+  },
+  "query": {}
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {}
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5174"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinayqwefbjbfrtyuio@gmail.com",
+    "password": "12345"
+  },
+  "query": {}
+}
+{
+  "body": {},
+  "query": {}
+}
+{
+  "body": {},
+  "query": {}
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {
+    "email": "vinay@gmail.com",
+    "password": "12345"
+  },
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}
+{
+  "body": {},
+  "query": {},
+  "origin": "http://localhost:5173"
+}

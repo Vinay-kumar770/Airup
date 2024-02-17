@@ -73,6 +73,7 @@ const ideaSchema = new Schema({
         type: String,
         required: true,
     },
+    filePath: { type: String ,required:false},
     ideaStatus: {
         type: Boolean,
         required: false,

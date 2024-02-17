@@ -136,18 +136,25 @@ const SubmissionForm = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-  
+    const formData = new FormData();
+  Object.keys(values).forEach(key => {
+    formData.append(key, values[key]);
+  });
+  // Append file if it exists
+  if (values.file) {
+    formData.append("ideaImage", values.file); // Change "file" to "ideaImage"
+}
     const ideaDataString = JSON.stringify(values); // Serialize form values to a string
   
     // Submit to the blockchain
     try {
-      await submitIdea(ideaDataString); // Assuming IdeaSubmission handles the serialization internally if needed
+      //await submitIdea(ideaDataString); // Assuming IdeaSubmission handles the serialization internally if needed
   
       // Proceed with the Axios call if needed after successful blockchain submission
-      const response = await axiosInstance.post(`/backend/entrepreneur/${userId}/ideaSubmission`, values, {
+      const response = await axiosInstance.post(`/backend/entrepreneur/${userId}/ideaSubmission`, formData, {
         headers: {
           Authorization: `Bearer ${accessToken}`,
-          // "Content-Type": "application/json" is typically not needed as Axios sets it automatically for JSON payloads
+          'Content-Type': 'multipart/form-data', // Important for sending files
         },
       });
   
@@ -165,8 +172,10 @@ const SubmissionForm = () => {
 
   const onChange = (e) => {
     if (e.target.type === "file") {
-      setValues({ ...values, file: e.target.files[0] }); // Update for file
+      // For file inputs, handle the files property
+      setValues({ ...values, file: e.target.files[0] });
     } else {
+      // For other inputs, handle the value property
       setValues({ ...values, [e.target.name]: e.target.value });
     }
   };
@@ -186,10 +195,11 @@ const SubmissionForm = () => {
         <div>
           <label className={styles.Label}>Choose a file:</label>
           <input
-            type="file"
-            accept=".pdf, .jpg, .png"
-            //onChange={onChange} // Updated to use the same onChange handler
-          />
+  type="file"
+  accept=".pdf, .jpg, .png"
+  onChange={onChange}
+  name="ideaImage" // Adjust this to match the backend expectation
+/>
         </div>
         <button className={styles.Submit} type="submit">Submit</button>
       </form>
